@@ -27,6 +27,9 @@
             <li>
                 <a href="checkout.php">Checkout</a>
             </li>
+             <li>
+                <a href="bs-binary-admin/login.php">Admin</a>
+            </li>
 
         </ul>
     </div>
